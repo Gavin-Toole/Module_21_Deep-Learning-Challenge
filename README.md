@@ -27,7 +27,7 @@ Using your knowledge of TensorFlow, you’ll design a neural network, or deep le
 5. Create an output layer with an appropriate activation function.
 6. Check the structure of the model.
 7. Compile and train the model.
-8. Create a callback that saves the model's weights every five epochs.
+8. Create a callback that saves the model's weights every five epochs. ChatGPT was used to assist in writing of this line of code.
 9. Evaluate the model using the test data to determine the loss and accuracy.
 10. Save and export your results to an HDF5 file. Name the file AlphabetSoupCharity.h5.
 
